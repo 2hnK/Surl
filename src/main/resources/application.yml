@@ -1,0 +1,10 @@
+# develop, operation environment
+server:
+  port: 8080
+spring:
+  profiles:
+    active: dev
+
+custom:
+  site:
+    name: "My Site"

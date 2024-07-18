@@ -1,0 +1,6 @@
+# operation development
+server:
+  port: 8080
+  custom:
+    site:
+      name: "My Site Prod"
