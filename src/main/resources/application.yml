@@ -4,6 +4,8 @@ server:
 spring:
   profiles:
     active: dev
+  config:
+    import: application-secret.yml
 
 custom:
   site:
