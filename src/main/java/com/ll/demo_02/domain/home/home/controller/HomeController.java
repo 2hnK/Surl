@@ -1,4 +1,4 @@
-package com.ll.demo_02;
+package com.ll.demo_02.domain.home.home.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
